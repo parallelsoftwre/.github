@@ -1,7 +1,7 @@
 <div align="center">
 	<br />
 	<p>
-		<a href="https://discord.gg/uNTefVFPBn"><img src="https://imgur.com/ukbgHQN.png" width="546" alt="discord.js" /></a>
+		<a href="https://discord.gg/uNTefVFPBn"><img src="https://imgur.com/ukbgHQN.png" width="546" alt="Parallel Software Logo" /></a>
 	</p>
 </div>
 
