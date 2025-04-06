@@ -12,7 +12,7 @@ We are Parallel Software, a company focused on creating Discord apps focused on 
 - [Discord Server]
 - [Twitter]
 
-Our current project, GameBoat, might soon be open source to view. Keep an eye out for a link here.
+Our current project, GameBoat, may soon be open source to view. Keep an eye out for a link here.
 
 [Discord server]: https://discord.gg/uNTefVFPBn
 [Twitter]: https://twitter.com/parallelsoftwre
