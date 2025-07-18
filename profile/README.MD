@@ -1,7 +1,7 @@
 <div align="center">
 	<br />
 	<p>
-		<a href="https://discord.gg/uNTefVFPBn"><img src="https://imgur.com/J3dg6sS" width="546" alt="Warebridge Logo" /></a>
+		<a href="https://discord.gg/uNTefVFPBn"><img src="https://imgur.com/J3dg6sS.png" width="546" alt="Warebridge Logo" /></a>
 	</p>
 </div>
 
