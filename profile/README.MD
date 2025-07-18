@@ -1,7 +1,7 @@
 <div align="center">
 	<br />
 	<p>
-		<a href="https://discord.gg/uNTefVFPBn"><img src="https://imgur.com/ukbgHQN.png" width="546" alt="Parallel Software Logo" /></a>
+		<a href="https://discord.gg/uNTefVFPBn"><img src="https://imgur.com/J3dg6sS" width="546" alt="Warebridge Logo" /></a>
 	</p>
 </div>
 
@@ -15,4 +15,4 @@ We are Parallel Software, a company focused on creating Discord apps focused on 
 Our current project, GameBoat, may soon be open source to view. Keep an eye out for a link here.
 
 [Discord server]: https://discord.gg/uNTefVFPBn
-[Twitter]: https://twitter.com/parallelsoftwre
+[Twitter]: https://twitter.com/warebridgecom
